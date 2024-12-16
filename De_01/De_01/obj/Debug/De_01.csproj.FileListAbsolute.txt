@@ -1,0 +1,15 @@
+D:\De_01\De_01\bin\Debug\De_01.exe.config
+D:\De_01\De_01\bin\Debug\De_01.exe
+D:\De_01\De_01\bin\Debug\De_01.pdb
+D:\De_01\De_01\bin\Debug\EntityFramework.dll
+D:\De_01\De_01\bin\Debug\EntityFramework.SqlServer.dll
+D:\De_01\De_01\bin\Debug\EntityFramework.xml
+D:\De_01\De_01\bin\Debug\EntityFramework.SqlServer.xml
+D:\De_01\De_01\obj\Debug\De_01.csproj.AssemblyReference.cache
+D:\De_01\De_01\obj\Debug\De_01.Form1.resources
+D:\De_01\De_01\obj\Debug\De_01.Properties.Resources.resources
+D:\De_01\De_01\obj\Debug\De_01.csproj.GenerateResource.cache
+D:\De_01\De_01\obj\Debug\De_01.csproj.CoreCompileInputs.cache
+D:\De_01\De_01\obj\Debug\De_01.csproj.Up2Date
+D:\De_01\De_01\obj\Debug\De_01.exe
+D:\De_01\De_01\obj\Debug\De_01.pdb
